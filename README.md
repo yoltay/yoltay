@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Sedat Yoltay
+
+# Sedat Y
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sedatyoltay-blue)](https://www.linkedin.com/in/sedatyoltay)
 
