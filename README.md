@@ -19,9 +19,6 @@ Scrum Methodology.
 
  Good knowledge of API Testing, Jenkins, SQL, JDBC, and Apache POI, JavaScript. 
 
- Problem solving and debugging capabilities 
-
- Good communication and teamworks skills
 
 ## Technical Skills✨
 - Languages: Java, C#, C++, JavaScript, Python, SQL, Gherkin, HTML, XML, JSON
