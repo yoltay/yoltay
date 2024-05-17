@@ -5,7 +5,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sedat-blue)](https://www.linkedin.com/in/yoltay)
 
 ## Professional Summary✨
-I am a certified Software Development Engineer in Test (SDET) and Software QA Engineer with over 12 years of experience in the IT industry. I specialize in manual and automation testing across various domains and applications. My main coding language is Java and I am good at JS, Python, C#, C++, and I have extensive knowledge of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) using Agile/Scrum methodology. I am proficient in tools such as Selenium, TestNG, Cucumber, Appium, and JUnit. Additionally, I have a strong understanding of Design Patterns, Object-Oriented Programming (OOP) principles, and data structures. 
+Over 12 years of experience in the IT industry, with more than 5 years specializing in Software 
+Development. 
+
+Proficient in Java, with advanced knowledge in Software Development Life Cycle (SDLC) and Agile / 
+Scrum Methodology. 
+
+ Extensive experience in automation testing using Selenium, TestNG, and Cucumber. 
+
+ Actively improving skills for Flutter development, Dart. 
+
+ Strong understanding of Design Patterns, Object Oriented Programming Principles (OOP), and Data Structures. 
+
+ Good knowledge of API Testing, Jenkins, SQL, JDBC, and Apache POI, JavaScript. 
+
+ Problem solving and debugging capabilities 
+
+ Good communication and teamworks skills
 
 ## Technical Skills✨
 - Languages: Java, C#, C++, JavaScript, Python, SQL, Gherkin, HTML, XML, JSON
