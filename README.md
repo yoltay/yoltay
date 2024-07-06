@@ -23,7 +23,6 @@ Scrum Methodology.
 ## Technical Skills✨
 - Languages: Java, C#, C++, JavaScript, Python, SQL, Gherkin, HTML, XML, JSON
 - Testing Tools: Selenium WebDriver, Cucumber, JUnit, TestNG, Cypress, Appium, Postman
-- Frameworks: Selenium WebDriver, Cucumber BDD, JUnit, TestNG
 - Databases: Oracle DB, SQL, MySQL, T-SQL, JDBC, Apache POI
 - CI/CD: Jenkins, Selenium Grid
 - Version Control: Git/GitHub
