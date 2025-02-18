@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sedat-blue)](https://www.linkedin.com/in/yoltay)
 
 ## Professional Summary✨
-Over 12 years of experience in the IT industry, with more than 5 years specializing in Software 
+Over 14 years of experience in the IT industry, with more than 7 years specializing in Software 
 Development. 
 
 Proficient in Java, Python with advanced knowledge in Software Development Life Cycle (SDLC) and Agile / 
