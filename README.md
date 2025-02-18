@@ -8,16 +8,14 @@
 Over 12 years of experience in the IT industry, with more than 5 years specializing in Software 
 Development. 
 
-Proficient in Java, with advanced knowledge in Software Development Life Cycle (SDLC) and Agile / 
+Proficient in Java, Python with advanced knowledge in Software Development Life Cycle (SDLC) and Agile / 
 Scrum Methodology. 
 
- Extensive experience in automation testing using Selenium, TestNG, and Cucumber. 
+Actively improving skills for Flutter development, Dart. 
 
- Actively improving skills for Flutter development, Dart. 
+Strong understanding of Design Patterns, Object Oriented Programming Principles (OOP), and Data Structures. 
 
- Strong understanding of Design Patterns, Object Oriented Programming Principles (OOP), and Data Structures. 
-
- Good knowledge of API Testing, Jenkins, SQL, JDBC, and Apache POI, JavaScript. 
+Good knowledge of API Testing, Jenkins, SQL, JDBC, and Apache POI, JavaScript. 
 
 
 ## Technical Skills✨
@@ -29,17 +27,3 @@ Scrum Methodology.
 - Cloud Technology: AWS EC2, Google Cloud
 - Methodologies: Agile (Scrum)
 
-<!--
-**sdaty/sdaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
