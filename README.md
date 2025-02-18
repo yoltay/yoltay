@@ -6,7 +6,7 @@
 
 ## Professional Summary✨
 Over 14 years of experience in the IT industry, with more than 7 years specializing in Software 
-Development. 
+Development and AI Developments.
 
 Proficient in Java, Python with advanced knowledge in Software Development Life Cycle (SDLC) and Agile / 
 Scrum Methodology. 
